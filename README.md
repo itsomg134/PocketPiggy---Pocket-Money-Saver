@@ -122,7 +122,7 @@ pocket-money-saver/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to:
 
@@ -134,13 +134,13 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
-## 📧 Contact
+## Contact
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
