@@ -38,7 +38,7 @@ A fun, mobile-friendly web app that helps kids, teens, and families manage pocke
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Option 1: Run Locally (No installation)
 
@@ -63,7 +63,7 @@ open index.html   # or double-click the file
 
 ---
 
-## 🎮 How to Use
+## How to Use
 
 ### 1. Add Money
 - Click **"+ Add Money"**
@@ -71,7 +71,7 @@ open index.html   # or double-click the file
 - Balance updates instantly
 
 ### 2. Spend Money
-- Click **"➖ Spend"**
+- Click **"Spend"**
 - Enter amount and category
 - Balance decreases if you have sufficient funds
 
