@@ -170,72 +170,19 @@ Perfect for:
 
 ---
 
-## 🙏 Acknowledgments
-
-- Icons: Emoji-based (cross-platform friendly)
-- Inspiration: Classic piggy banks and envelope budgeting method
-- Built with ☕ and 💛 for financial education
-
----
-
-**Made with 🐷 for smart savers everywhere.**
-```
-
----
-
-## 📝 Bonus: Short Version (if you want minimal)
-
-If you prefer a shorter README, here's a compact version:
-
-```markdown
-# 🐷 PocketPiggy - Pocket Money Saver
-
-Mobile-friendly web app to track pocket money, expenses, and savings goals.
-
-## 🚀 Quick Start
-Open `index.html` in any browser. No installation needed!
-
-## ✨ Features
-- Add/Spend money with categories
-- Create savings goals with progress bars
-- Transaction history
-- Auto-save to browser storage
-
-## 🛠️ Tech
-HTML5, CSS3, Vanilla JS, LocalStorage API
-
-## 📸 Screenshots
-*(Add screenshots here)*
-
 ## 📄 License
 MIT
 
----
+##  Contact
 
-[Live Demo](#) | [Report Bug](#) | [Request Feature](#)
-```
+Om Gedam
 
----
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
-## 🖼️ How to Add Screenshots
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
 
-1. Take screenshots of your app (home screen, add money modal, goals section)
-2. Save them in a `screenshots/` folder
-3. Replace `*[Add screenshot1.png]*` with `![Home](screenshots/home.png)`
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
 
----
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
 
-##  GitHub Repository Checklist
-
-Before pushing to GitHub:
-
-- [ ] Create new repository on GitHub
-- [ ] Upload `index.html` (the complete app code)
-- [ ] Add `README.md` (choose version above)
-- [ ] (Optional) Add `LICENSE` file (MIT recommended)
-- [ ] Enable GitHub Pages in Settings
-
-Your app will be live at:  
-`https://yourusername.github.io/pocket-money-saver/`
-
-Would you like me to also create a **LICENSE** file (MIT) or a **.gitignore** file for this project?
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
