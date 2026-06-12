@@ -11,9 +11,6 @@ A fun, mobile-friendly web app that helps kids, teens, and families manage pocke
 
 ---
 
-## ✨ Live Demo
-
-👉 [Click here to try PocketPiggy](#) *(replace with your GitHub Pages or hosting link)*
 
 ---
 
