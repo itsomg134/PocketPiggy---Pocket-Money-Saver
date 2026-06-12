@@ -1,7 +1,4 @@
-Here's a complete **GitHub README.md** file for your Pocket Money Saver project. Copy and paste this into your repository's `README.md`.
-
-```markdown
-# 🐷 PocketPiggy - Pocket Money Saver
+# PocketPiggy - Pocket Money Saver
 
 **Track. Save. Achieve.**  
 A fun, mobile-friendly web app that helps kids, teens, and families manage pocket money, track spending, and reach savings goals.
