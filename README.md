@@ -14,7 +14,7 @@ A fun, mobile-friendly web app that helps kids, teens, and families manage pocke
 
 ---
 
-## 📱 Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
@@ -30,7 +30,7 @@ A fun, mobile-friendly web app that helps kids, teens, and families manage pocke
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 | Home Screen | Add Money | Savings Goals |
 |-------------|-----------|----------------|
