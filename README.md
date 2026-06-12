@@ -140,39 +140,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/pocket-money-saver](https://github.com/yourusername/pocket-money-saver)
-
----
-
-## Show Your Support
-
-If this project helped you or your kids learn about money management, please give it a ⭐ on GitHub!
-
----
-
-## 🧠 Educational Value
-
-PocketPiggy teaches:
-- **Financial literacy** from a young age
-- **Goal setting** and delayed gratification
-- **Tracking income vs. expenses**
-- **Digital responsibility** without real banking risks
-
-Perfect for:
-- Parents teaching kids about money
-- Teens managing allowance
-- Classroom economics activities
-- Anyone wanting a simple expense tracker
-
----
-
-## 📄 License
-MIT
-
 ##  Contact
 
 Om Gedam
