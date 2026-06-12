@@ -84,11 +84,11 @@ open index.html   # or double-click the file
 - Click **"+ Add money"** under any goal
 - Enter amount to transfer from balance to goal
 - Progress bar fills up automatically
-- 🎉 Celebration alert when goal is reached!
+- Celebration alert when goal is reached!
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **HTML5** - Structure
 - **CSS3** - Styling & animations (gradients, shadows, mobile layout)
@@ -97,7 +97,7 @@ open index.html   # or double-click the file
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 pocket-money-saver/
