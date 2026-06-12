@@ -18,15 +18,15 @@ A fun, mobile-friendly web app that helps kids, teens, and families manage pocke
 
 | Feature | Description |
 |---------|-------------|
-| 💰 **Balance Tracker** | See your current pocket money at a glance |
-| ➕ **Add Money** | Record allowance, chores, gifts, or other income |
-| ➖ **Spend Money** | Log expenses with categories (snacks, games, toys, etc.) |
-| 🎯 **Savings Goals** | Create goals, track progress with visual bars |
-| 💸 **Goal Contributions** | Move money from balance to any savings goal |
-| 📜 **Transaction History** | View last 20 transactions with timestamps |
-| 💾 **Auto-Save** | All data persists in browser's local storage |
-| 📱 **Mobile First** | Optimized for phones, tablets, and desktops |
-| 🔒 **No Account Needed** | Works offline, no signup or backend |
+|  **Balance Tracker** | See your current pocket money at a glance |
+|  **Add Money** | Record allowance, chores, gifts, or other income |
+|  **Spend Money** | Log expenses with categories (snacks, games, toys, etc.) |
+|  **Savings Goals** | Create goals, track progress with visual bars |
+|  **Goal Contributions** | Move money from balance to any savings goal |
+|  **Transaction History** | View last 20 transactions with timestamps |
+|  **Auto-Save** | All data persists in browser's local storage |
+|  **Mobile First** | Optimized for phones, tablets, and desktops |
+|  **No Account Needed** | Works offline, no signup or backend |
 
 ---
 
