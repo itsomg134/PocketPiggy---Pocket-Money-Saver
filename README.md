@@ -148,7 +148,7 @@ Project Link: [https://github.com/yourusername/pocket-money-saver](https://githu
 
 ---
 
-## ⭐ Show Your Support
+## Show Your Support
 
 If this project helped you or your kids learn about money management, please give it a ⭐ on GitHub!
 
