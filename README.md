@@ -108,17 +108,17 @@ pocket-money-saver/
 
 ---
 
-## 💡 Future Ideas (Roadmap)
+##  Future Ideas (Roadmap)
 
-- [ ] 📊 Spending charts (pie/bar charts)
-- [ ] 📅 Weekly/monthly reports
-- [ ] 🔐 PIN-protected parent mode
-- [ ] 💱 Multi-currency support
-- [ ] 📎 Receipt photo uploads
-- [ ] ☁️ Cloud sync (Firebase)
-- [ ] 📤 Export transactions to CSV
-- [ ] 🎨 Dark mode
-- [ ] 📢 Reminders for chores/allowance
+- [ ]  Spending charts (pie/bar charts)
+- [ ]  Weekly/monthly reports
+- [ ]  PIN-protected parent mode
+- [ ]  Multi-currency support
+- [ ]  Receipt photo uploads
+- [ ]  Cloud sync (Firebase)
+- [ ]  Export transactions to CSV
+- [ ]  Dark mode
+- [ ]  Reminders for chores/allowance
 
 ---
 
